@@ -6,8 +6,6 @@ Extracted from [https://apps.apple.com/](https://apps.apple.com/). Saved using t
 
 Because Apple forgot to disable sourcemaps in production on the App Store website 🙃
 
-<img width="795" height="548" alt="image" src="https://github.com/user-attachments/assets/59211dfb-5a56-456b-85b8-d292c1cfbfa2" />
-
 As an interesting discovery, I've archived them here on GitHub for educational purposes.
 
 ## Directory Structure
